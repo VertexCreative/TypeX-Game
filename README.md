@@ -16,6 +16,3 @@
 * **Core:** Vanilla JavaScript (Event Listeners)
 * **Styling:** Tailwind CSS + Glassmorphism
 * **Fonts:** JetBrains Mono
-
-## 🚀 Usage
-Open `index.html`, click **Initialize System**, and start typing.
